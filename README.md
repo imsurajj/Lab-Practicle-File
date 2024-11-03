@@ -5,7 +5,10 @@ If you're wondering what this is, don't worry, we're still scratching our heads 
 
 ### ❓ How to Use This Repository:
 
-1. **Clone:** `git clone https://github.com/insurajj/SEMI-LAB-FILE.git`
+1. **Clone:** 
+```sh
+git clone https://github.com/insurajj/SEMI-LAB-FILE.git`
+```
 2. **Open:** Open the cloned repository in your favorite code editor.
 3. **Explore:** Wander around the files and see what you find. ️‍♀️️‍♂️
 4. **Contribute:** Feel free to add more README files, or if you're feeling adventurous, try to decipher the purpose of the existing ones. We're all ears (or eyes?) for your theories! 
