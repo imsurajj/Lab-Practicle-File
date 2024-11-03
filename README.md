@@ -1,4 +1,4 @@
-# SEMI-LAB-FILE Repository
+# SEM1-LAB-FILE Repository
 Welcome to the SEMI-LAB-FILE Repository! This repository contains the BCA Lab Practical File for the First Semester of the Session 2024-25.
 
 ## Table of Contents
@@ -8,7 +8,7 @@ Welcome to the SEMI-LAB-FILE Repository! This repository contains the BCA Lab Pr
 - [License](#license-)
 - [Thank you](#thank-you-for-your-interest-️)
 
-## Welcome to the SEMI-LAB-FILE Repository 🎉
+## Welcome to the SEM1-LAB-FILE Repository 🎉
 
 If you're wondering what this is, don't worry, we're still scratching our heads too.  We seem to have a bunch of files named README, but no one knows what they're for. Maybe they're just here for the lolz? 
 
