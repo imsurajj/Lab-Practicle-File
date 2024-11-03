@@ -2,7 +2,7 @@
 Welcome to the SEMI-LAB-FILE Repository! This repository contains the BCA Lab Practical File for the First Semester of the Session 2024-25.
 
 ## Table of Contents
-- [Description](#welcome-to-the-semi-lab-file-repository-)
+- [Description](#welcome-to-the-sem1-lab-file-repository-)
 - [How to Use This Repository](#how-to-use-this-repository-)
 - [Contributing](#contributing-)
 - [License](#license-)
