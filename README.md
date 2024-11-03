@@ -15,7 +15,7 @@ If you're wondering what this is, don't worry, we're still scratching our heads 
 
 ### How to Use This Repository ❓:
 
-1. **Clone:** 
+1. **Clone the Repository:** 
 ```sh
 git clone https://github.com/insurajj/SEMI-LAB-FILE.git`
 ```
