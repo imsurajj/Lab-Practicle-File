@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu and Courses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;        }
+    
+        .flex-container {
+            display: flex;
+            justify-content: space-around; /* Space between items */
+        }
+        h1{
+            text-align: center;
+            color: rgb(59, 62, 247);
+        }
+        .list {
+            border: 1px solid #ccc; /* Optional border for better visibility */
+            padding: 10px;
+            width: 30%; /* Set width for each list */
+        }
+        ol {
+            margin-top: 10px; /* Space above ordered lists */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Beverages, Dishes & Desserts</h1>
+
+    <div class="flex-container">
+        <div class="list">
+            <h3>Beverages</h3>
+            <ul>
+                <li>Coffee</li>
+                <li>Tea</li>
+                <li>Juice</li>
+                <li>Soda</li>
+                <li>Water</li>
+            </ul>
+        </div>
+
+        <div class="list">
+            <h3>Dishes</h3>
+            <ul>
+                <li>Pasta</li>
+                <li>Pizza</li>
+                <li>Burger</li>
+                <li>Salad</li>
+                <li>Steak</li>
+            </ul>
+        </div>
+
+        <div class="list">
+            <h3>Desserts</h3>
+            <ul>
+                <li>Cake</li>
+                <li>Ice Cream</li>
+                <li>Brownie</li>
+                <li>Pudding</li>
+                <li>Fruit Tart</li>
+            </ul>
+        </div>
+    </div>
+
+    <h1>Courses Available at My Institute</h1>
+
+    <div class="flex-container">
+        <!-- Default Ordered List -->
+        <div class="list">
+            <h3>Default Numbered :</h3>
+            <ol>
+                <li>Computer Science</li>
+                <li>Information Technology</li>
+                <li>Data Science</li>
+                <li>Web Development</li>
+            </ol>
+        </div>
+
+        <!-- Lowercase Letters Ordered List -->
+        <div class="list">
+            <h3>Lowercase Letters:</h3>
+            <ol type="a">
+                <li>Graphic Design</li>
+                <li>Digital Marketing</li>
+                <li>Cyber Security</li>
+            </ol>
+        </div>
+
+        <!-- Roman Numerals Ordered List -->
+        <div class="list">
+            <h3>Roman Numerals:</h3>
+            <ol type="I">
+                <li>Business Administration</li>
+                <li>Finance Management</li>
+                <li>Human Resource Management</li>
+            </ol>
+        </div>
+    </div>
+
+</body>
+</html>

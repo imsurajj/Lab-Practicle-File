@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Frameset with Different Colors</title>
+</head>
+<frameset rows="50%,50%">
+    <frameset cols="50%,50%">
+        <frame src="frame1.html" name="top" scrolling="no" noresize />
+        <frame src="frame2.html" name="top" scrolling="no" noresize />
+    </frameset>
+    <frame src="frame3.html" name="bottom" scrolling="no" noresize />
+    <noframes>
+        <body>
+            Your browser does not support frames.
+        </body>
+    </noframes>
+</frameset>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Alignment Example</title>
+    <style>
+        body {
+            color: white; /* Set text color to white for contrast */
+            text-align: center; /* Center text for the heading */
+        }
+        .left {
+            float: left; /* Align image to the left */
+            margin-right: 5px; /* Space between the image and text */
+        }
+        .center {
+            display: block; /* Make the image a block element */
+            margin-left: 0 auto;/* Center the image horizontally */
+        }
+        .right {
+            float: right; /* Align image to the right */
+            margin-left: 5px; /* Space between the image and text */
+        }
+        img {
+            width: 250px; /* Set a fixed width for images */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Image Alignment Example</h1>
+    <img src="d2.jpg" alt="Left Aligned Image" class="left">
+    <img src="d2.jpg" alt="Centered Image" class="center">
+    <img src="d2.jpg" alt="Right Aligned Image" class="right">
+
+</body>
+</html>
