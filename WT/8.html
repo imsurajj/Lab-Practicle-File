@@ -1,46 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <title>Car Prices Table</title>
 </head>
 <body>
     <table border="1" cellpadding="10" cellspacing="5"
-        style="border-collapse: collapse; width: 80%; text-align: center; font-family: Arial, Helvetica, sans-serif;">
+           style="border-collapse: collapse; width: 80%; text-align: center; font-family: Arial, Helvetica, sans-serif;">
         <tr>
-            <th colspan="6" style="background-color: lightblue; height: 50px;">Weekly Timetable </th>
+            <th colspan="4" style="background-color: lightblue; height: 50px;">Car Prices by Brand</th>
         </tr>
         <tr>
-            <th>Time</th>
-            <th>Monday</th>
-            <th>Tuesday</th>
-            <th>Wednesday</th>
-            <th>Thursday</th>
-            <th>Friday</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Year</th>
+            <th>Price (USD)</th>
         </tr>
         <tr>
-            <td style="background-color: lightgrey; width: 120px;">8:00 AM - 9:00 AM</td>
-            <td>History</td>
-            <td>Math</td>
-            <td>English</td>
-            <td ">Biology</td>
-            <td>Chemistry</td>
+            <td rowspan="2" style="background-color: lightgrey;">Toyota</td>
+            <td>Camry</td>
+            <td>2022</td>
+            <td>$25,000</td>
         </tr>
         <tr>
-            <td style=" background-color: lightgrey; width: 120px;">9:00 AM - 10:00 AM</td>
-            <td colspan="2" style="background-color: lightgrey;">Free Time</td>
-            <td>Math</td>
-            <td>English</td>
-            <td>Biology</td>
+            <td>Corolla</td>
+            <td>2023</td>
+            <td>$21,000</td>
         </tr>
         <tr>
-            <td style="background-color: lightgrey; width: 120px;">10:00 AM - 11:00 PM</td>
-            <td rowspan="2" style="background-color: lightgreen; height: 100px;">Extra Study
-            </td>
-            <td style="background-color: lightcyan;">Free Time</td>
-            <td>History</td>
-            <td>Math</td>
-            <td>English</td>
+            <td rowspan="3" style="background-color: lightgrey;">Ford</td>
+            <td>Mustang</td>
+            <td>2022</td>
+            <td>$27,000</td>
         </tr>
         <tr>
-            <td style="background-color: lightgrey; width: 120px;">12:00 PM - 1:00 PM</td>
-            <td colspan="4" style="background-color: lightpink;">Lunch Break</td>
+            <td>F-150</td>
+            <td>2023</td>
+            <td>$30,000</td>
         </tr>
-    </table> </body> </html>
+        <tr>
+            <td>Explorer</td>
+            <td>2021</td>
+            <td>$28,000</td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="background-color: lightgrey;">Honda</td>
+            <td>Accord</td>
+            <td>2022</td>
+            <td>$24,000</td>
+        </tr>
+        <tr>
+            <td>Civic</td>
+            <td>2023</td>
+            <td>$20,500</td>
+        </tr>
+    </table>
+</body>
+</html>
