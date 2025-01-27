@@ -1,1 +1,1 @@
-### 3rd Semester Index
+### 6th Semester Index
