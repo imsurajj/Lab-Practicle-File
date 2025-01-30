@@ -20,6 +20,7 @@ class AvgPerc {
         Float sum = num1 + num2 + num3 + num4 + num5;
         Float avg = sum / 5;
         Float Percentage = (sum / 500) * 100;
+        System.out.println("Total Marks : "+sum);
         System.out.print("Avg of Marks = " + avg);
         System.out.print("\nPercentage of Marks = " + Percentage);
 
