@@ -95,6 +95,8 @@ The 2nd semester labs cover data structures and Java programming. 📊
 | [Sum of Array](2nd%20Semester/JAVA/SumOfArray.java) | Sum elements of an array | How do you sum elements in an array? |
 | [Sum of Digits](2nd%20Semester/JAVA/SumOfDigit.java) | Calculate sum of digits | How do you calculate the sum of digits of a number? |
 | [Multiplication Table](2nd%20Semester/JAVA/Table.java) | Print multiplication table | How do you print a multiplication table in Java? |
+| [Maximum/Minimum in Array](JAVA/ArrayMaxMin.java) | Find Max and Min Number | WAP to Find Max and Min Number by Taking User input in Java |
+
 
 ## Conclusion
 This README provides a structured overview of the lab files for easy navigation. 🌟

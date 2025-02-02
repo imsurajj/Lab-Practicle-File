@@ -34,3 +34,5 @@ Java Programming is a fundamental course that introduces students to the Java pr
 | [Sum of Array](JAVA/SumOfArray.java) | Sum elements of an array | How do you sum elements in an array? |
 | [Sum of Digits](JAVA/SumOfDigit.java) | Calculate sum of digits | How do you calculate the sum of digits of a number? |
 | [Multiplication Table](JAVA/Table.java) | Print multiplication table | How do you print a multiplication table in Java? |
+| [Maximum/Minimum in Array](JAVA/ArrayMaxMin.java) | Find Max and Min Number | WAP to Find Max and Min Number by Taking User input in Java |
+
