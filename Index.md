@@ -4,8 +4,8 @@
 Welcome to my **BCA Practical Lab Files Repository**! 🎉 This repository contains all the practical assignments and lab work from my BCA course. 📚
 
 ## Index 📚
-- [1st Semester](#1st-semester) 📆
-- [2nd Semester](#2nd-semester) 📆
+- [1st Semester](#1st-semester-index) 📆
+- [2nd Semester](#2nd-semester-index) 📆
 
 ## 1st Semester 🏫
 ### Overview
