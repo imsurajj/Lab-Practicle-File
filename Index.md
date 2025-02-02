@@ -76,6 +76,8 @@ The 2nd semester labs cover data structures and Java programming. 📊
 | [Array Reversing](2nd%20Semester/DSA/ArrayReversing.c) | Reverse an array | What is the process to reverse an array? |
 | [Linear Search](2nd%20Semester/DSA/LinearSearch.c) | Perform linear search | How does linear search work? |
 | [Binary Search](2nd%20Semester/DSA/BinarySearch.c) | Perform binary search | What is the binary search algorithm? |
+| [Selection Sort](2nd%20Semester/DSA/SelectionSort.c) | Perform Selection Sort | WAP to Perform Selection Sort |
+
 
 #### Java Programming
 | Lab Title | Description | Question |

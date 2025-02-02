@@ -14,6 +14,7 @@ Data Structures and Algorithms is a crucial course that teaches students how to 
 | [Array Reversing](DSA/ArrayReversing.c) | Reverse an array | What is the process to reverse an array? |
 | [Linear Search](DSA/LinearSearch.c) | Perform linear search | How does linear search work? |
 | [Binary Search](DSA/BinarySearch.c) | Perform binary search | What is the binary search algorithm? |
+| [Selection Sort](DSA/SelectionSort.c) | Perform Selection Sort | WAP to Perform Selection Sort |
 
 ## Java Programming ☕
 Java Programming is a fundamental course that introduces students to the Java programming language. It covers various topics such as syntax, object-oriented programming, and exception handling.
