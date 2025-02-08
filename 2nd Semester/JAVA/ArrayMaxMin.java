@@ -1,4 +1,3 @@
-
 //*  Find Minimum and Maximum using Array
 import java.util.Scanner;
 
